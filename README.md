@@ -135,7 +135,7 @@ Support- We have customers having Check/Debit card (CKCRD), they are 3.19 times 
 
 <img src="img/14.png?raw=true"/>
 
-4.	For customers having a savings account, give them offers to open a checking account. <br>
+4.	For customers having a savings account, give them offers to open a checking accoun<br>
 Support- From the graph below, we can say that for customers having a savings account, they also go for a checking account. This association rule sits on top of the graph with high confidence of 87.5% and support of 54.17 %. <br>
 
 <img src="img/15.png?raw=true"/>
