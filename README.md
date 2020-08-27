@@ -63,7 +63,7 @@ Maximum number of visits made among all customers is 11.
 
 ### Model Evaluation
 
-The basic criteria used to evaluate association rules include Support and Confidence. Lift is another measure that can be used for evaluation. 
+The basic criteria used to evaluate association rules include Support and Confidence. Lift is another measure that can be used for evaluation. <br>
 •	Support <br>
 Support measures the relevance of the rule.  <br>
 Support= (L&R count)/Total N <br>
@@ -84,6 +84,7 @@ Lift= confidence/ frequency of head <br>
 
 From our example, If {milk} -> Then {eggs}, if 20 customers buy milk, 5 customers buy eggs and 10 customers buy milk and eggs together out of 100 customers, then confidence= 10/20= 50 %. Frequency of head = 5/ 100 = 5%. Therefore, lift will be 50/5= 10. This essentially means that customers buying milk are 10 times more likely to buy eggs as well, which sounds like it will be an extremely promising association rule to the store owner.  <br>
 
+### Results
 
 <img src="img/9.png?raw=true"/>
 
@@ -105,7 +106,7 @@ Top 10 rules with highest lift value:
 
 ### Conclusions
 
-Link Grapgh: 
+Link Graph: 
 
 <img src="img/12.png?raw=true"/>
 
