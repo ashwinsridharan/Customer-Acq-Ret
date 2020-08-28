@@ -1,4 +1,4 @@
-# Customer Acquisition & Retention through Data Mining
+# Product Recommendation through Data Mining
 GOAL: To help Banks and other institutions understand their customers and their individual usage patters to recommend/ cross-sell other products and services, using Association Rule Mining or otherwise known as Market Basket Analysis.
 
 <img src="img/bank.jpg?raw=true"/>
