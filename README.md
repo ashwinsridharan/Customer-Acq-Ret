@@ -4,7 +4,7 @@ GOAL: To help Banks and other institutions understand their customers and their 
 <img src="img/bank.jpg?raw=true"/>
 
 ## INTRODUCTION
-Data Mining helps in the process of optimized targeting, making it easier for banks to instantly identify the high-value customer segments most likely to respond. The customer base can further expand by acquiring the right type of customer. Based on a report, it was seen the banks that adopted data & analytics had an increase of about 10%  in new customer opportunities over a year. <br>
+Data Mining helps in the process of optimized targeting, making it easier for banks to instantly identify the high-value customer segments most likely to respond. The customer base can be further expanded by acquiring the right type of customer. Based on a report, it was seen the banks that adopted data & analytics had an increase of about 10%  in new customer opportunities over a year. <br>
 
 Also data mining helps banks and financial institutions retain their customers. It: <br>
 
@@ -12,9 +12,9 @@ Also data mining helps banks and financial institutions retain their customers. 
 2. Keeps the right customers longer.
 3. Predicts which actions will earn their loyalty.
 4. Discovers the churn patterns and develop profiles of users who have left, 
-5. Get an insight of why they left and discover strategies to keep them satisfied.
+5. Finds insight of why they left and discover strategies to keep them satisfied.
 
-Customer retention is another area where banks need to focus more today in order to reduce customer sapping. Loyal customers need to be rewarded and customer attrition needs to be minimized. Sometimes it gets too late to retain a customer because they tend to have a large customer base and hence lose track of them. It’s easy to look out for a new customer but the old ones are always valuable. Data Mining helps identify which customers are willing to switch to any other bank and the reason behind their decision. It examines customer’s service performance, spending, past service and other behavior patterns to predict the likelihood of a customer wanting to stop its services anytime in the near future.
+Customer retention is another area where banks need to focus more today. Loyal customers need to be rewarded and customer attrition needs to be minimized. Sometimes it gets too late to retain a customer because banks tend to have a large customer base and hence lose track of them. While it’s fairly easier to look out for a new customers, for any business to withstand the test of time, it's the old ones that are always valuable. Data Mining helps identify which customers are willing to switch to any other bank and the reason behind their decision. It examines customer’s service performance, spending, past service and other behavior patterns to predict the likelihood of a customer wanting to stop its services anytime in the near future.
 
 ### Association Rule Mining/ Market Basket Analysis/ Affinity Analysis
 
